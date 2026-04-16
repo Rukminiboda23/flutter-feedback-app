@@ -1,16 +1,20 @@
-# feedback_collector
+# Flutter Feedback Collector App
 
-A new Flutter project.
+## 📱 Description
 
-## Getting Started
+A mobile app built using Flutter that allows users to submit and view feedback with a simple and intuitive interface.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* Submit feedback form
+* View feedback entries
+* Local storage using SharedPreferences
+* Clean and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter, Dart
+
+## 📥 Download APK
+
+https://github.com/Rukminiboda23/flutter-feedback-app/releases
